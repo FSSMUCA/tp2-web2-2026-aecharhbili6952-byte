@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/p6CTHHRY)
 # TP — JavaScript : Types, Opérateurs et Conversions
 
 **Consignes générales**
@@ -274,3 +275,19 @@ nombreConnexions : "Aucune connexion" (0 après conversion)
 > Pour `estAdmin`, vous ne pouvez pas utiliser `Boolean()` directement — réfléchissez à comment comparer la chaîne à `"true"` avec `===`.
 
 ---
+
+Ce fichier explique chaque notion JavaScript dont vous avez besoin pour réaliser les exercices. Pour chaque outil : une explication simple, la syntaxe, et des exemples concrets.
+
+Sommaire
+Outil	Utilisé dans
+String()	Exercice 1, 2
+JSON.stringify()	Exercice 4
+String.padEnd()	Exercice 4
+Number.isNaN()	Exercice 5, 8
+Number.isInteger()	Exercice 5
+Math.abs()	Exercice 5
+Number.MAX_SAFE_INTEGER	Exercice 5
+parseInt()	Exercice 8
+Number()	Exercice 8
+String.trim()	Exercice 8
+String.indexOf()	Exercice 8
